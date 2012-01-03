@@ -1,6 +1,9 @@
 SimplePie gpEasy Addon
 by Namcub of DigitalRoots
 
+Copy into 'Addon' directory of gpEasy.
+Then use gpEasy's 'Manage Plugins' interface to complete install.
+
 Version 0.0.0
 ----------------
 Demonstrate proof of concept of integrating SimplePie into gpEasy.
